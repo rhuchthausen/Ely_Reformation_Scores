@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m1dsu5aj">
+      <fileDesc xml:id="f69l8nq">
+         <titleStmt xml:id="t1s3l6x5">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p9mxzc1" />
+      </fileDesc>
+      <encodingDesc xml:id="e53hu30">
+         <appInfo xml:id="a1coqgu5">
+            <application xml:id="aurs6ow" isodate="2026-06-24T14:58:36" version="6.2.1-8d42439">
+               <name xml:id="n1hrgpzv">Verovio</name>
+               <p xml:id="p115yloy">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="uzfx66i">
+            <score xml:id="v1x1nk3a">
+               <scoreDef xml:id="w1xboxuw">
+                  <staffGrp xml:id="y7ky2wr">
+                     <staffDef xml:id="a129cxhv" n="1" lines="5" />
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="xqqd853">
+                  <expansion xml:id="z1v2xv6c" />
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
